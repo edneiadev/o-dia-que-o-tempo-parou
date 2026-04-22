@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff3b6"/>
+      <stop offset="35%" stop-color="#ffd7eb"/>
+      <stop offset="70%" stop-color="#d7f5d6"/>
+      <stop offset="100%" stop-color="#e4d5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="56" fill="url(#bg)"/>
+  <circle cx="400" cy="350" r="190" fill="#fffdf8" stroke="#745f9f" stroke-width="20"/>
+  <circle cx="400" cy="350" r="12" fill="#745f9f"/>
+  <path d="M400 350 L400 240" stroke="#745f9f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M400 350 L500 350" stroke="#ff6f9c" stroke-width="14" stroke-linecap="round"/>
+  <path d="M230 165 C275 95 360 70 454 84" fill="none" stroke="#745f9f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M254 150 L230 165 L244 194" fill="none" stroke="#745f9f" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#745f9f" font-family="Verdana, sans-serif" font-size="28" font-weight="700" text-anchor="middle">
+    <text x="400" y="197">12</text>
+    <text x="558" y="360">3</text>
+    <text x="400" y="528">6</text>
+    <text x="242" y="360">9</text>
+  </g>
+  <text x="400" y="610" text-anchor="middle" font-family="Verdana, sans-serif" font-size="48" font-weight="700" fill="#4f3d72">GUARDIÕES DO TEMPO</text>
+  <text x="400" y="664" text-anchor="middle" font-family="Verdana, sans-serif" font-size="30" fill="#4f3d72">Matemática • Desafio • Aventura</text>
+</svg>

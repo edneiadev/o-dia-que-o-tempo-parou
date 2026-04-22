@@ -1,0 +1,19 @@
+{
+  "name": "Escape Room Pedagógico - O dia em que o tempo parou",
+  "short_name": "Tempo Parou",
+  "description": "Jogo pedagógico sobre medidas de tempo, instalável e offline.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8cc",
+  "theme_color": "#f6d9ec",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
